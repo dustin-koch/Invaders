@@ -65,12 +65,20 @@
 				CADBC53822A1A32C00086FCA /* Actions.sks */,
 				CADBC53A22A1A32C00086FCA /* GameScene.swift */,
 				CADBC53C22A1A32C00086FCA /* GameViewController.swift */,
+				CADBC54C22A1A42600086FCA /* Resources */,
+			);
+			path = Invaders;
+			sourceTree = "<group>";
+		};
+		CADBC54C22A1A42600086FCA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				CADBC53E22A1A32C00086FCA /* Main.storyboard */,
 				CADBC54122A1A32E00086FCA /* Assets.xcassets */,
 				CADBC54322A1A32E00086FCA /* LaunchScreen.storyboard */,
 				CADBC54622A1A32E00086FCA /* Info.plist */,
 			);
-			path = Invaders;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
